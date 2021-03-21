@@ -17,7 +17,11 @@ The only requirements are
 * Optionally you may wish to create a virtual enviroment and then install requirements with `pip install -r requirements.txt` (this step is not nessesary as the requirements are just pandas, pytest, coverage)
   <br>
 * To run the solution navigate to the folder in the console and run `python solution.py`
-* <br>
+  <br>
 * To run tests enter `pytest` in colsole
 * To check the test coverage enter `coverage run -m --include=./solution.py pytest` in console
 *  And then enter `coverage report` in console to view coverage report
+
+**Note** : Open the ***solution.ipnb*** file in a Jupyter Notebook and run the cells one by one to follow the solution sequentially
+
+### Thanks!!
