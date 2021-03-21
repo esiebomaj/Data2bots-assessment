@@ -16,6 +16,8 @@ The only requirements are
   <br>
 * Optionally you may wish to create a virtual enviroment and then install requirements with `pip install -r requirements.txt` (this step is not nessesary as the requirements are just pandas, pytest, coverage)
   <br>
+* To run the solution navigate to the folder in the console and run `python solution.py`
+* <br>
 * To run tests enter `pytest` in colsole
 * To check the test coverage enter `coverage run -m --include=./solution.py pytest` in console
 *  And then enter `coverage report` in console to view coverage report
